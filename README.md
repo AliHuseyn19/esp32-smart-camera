@@ -3,6 +3,9 @@
 ## 🎯 Project Purpose
 This project was developed to demonstrate motion detection, real-time image capture, and IoT-based notification systems using low-cost hardware.
 
+## 📸 Project Images
+![image alt](https://github.com/AliHuseyn19/esp32-smart-camera/blob/46831b1968e7d843c5944b042e71056c9c587add/Devre_Semasi.jpg)
+
 ## 🚀 Features
 - 📷 Real-time photo capture with ESP32-CAM
 - 👀 Motion detection using a PIR sensor
@@ -35,9 +38,6 @@ The system continuously monitors motion using a PIR sensor. When motion is detec
 2. ESP32-CAM is triggered and captures a photo.
 3. The captured image is sent to the user via a Telegram bot.
 4. An audible alarm is activated using the buzzer.
-
-## 📸 Project Images
-![image alt](https://github.com/AliHuseyn19/esp32-smart-camera/blob/46831b1968e7d843c5944b042e71056c9c587add/Devre_Semasi.jpg)
 
 ## 🎯 Use Cases
 - Home security
